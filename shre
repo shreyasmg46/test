@@ -1,0 +1,10 @@
+sudo 
+apt-get update
+apt-get install
+pwd
+ls -ltr
+ls -la
+mkdir
+echo ""
+touch
+
